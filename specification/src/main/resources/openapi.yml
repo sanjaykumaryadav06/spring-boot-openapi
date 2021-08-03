@@ -1,7 +1,7 @@
 openapi: 3.0.2
 info:
   title: Kloudgaze-client-services API.
-  description: ReDoc for Kloudgaze-client-services Api.
+  description: "ReDoc for Kloudgaze-client-services Api."
   termsOfService: http://swagger.io/terms/
   contact:
     email: petros.stergioulas94@gmail.com
